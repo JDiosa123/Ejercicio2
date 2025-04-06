@@ -11,7 +11,7 @@ public class Terrestre extends Vehiculo implements Motor {
         this.uso = uso;
     }
 
-    // Getters y Setters
+   
     public int getCantidadLlantas() {
         return cantidadLlantas;
     }
